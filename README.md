@@ -3,6 +3,8 @@ Just a mongo database
 
 Queries:
 
+How many restaurants are in Brooklyn?
+
 What is the average score of a passing letter (c or better) grade?
 
 What is the average length of time between health inspections or whatever the gap in dates are?
